@@ -1,9 +1,29 @@
-# 👋 Hi there, I'm Adarsh Kumar (@Adarsh21-dev)
+👋 Hi there, I'm Gopi Yadav (@GopiYadav010)
 
-🚀 **Aspiring Android Developer** with a passion for crafting robust, scalable, and visually appealing applications. I thrive on clean code principles and strive to deliver exceptional user experiences across all my projects.
+📊 Aspiring Data Analyst passionate about turning raw data into actionable insights and visually compelling stories. I thrive on clean, efficient data workflows and aim to provide decision-makers with accurate, meaningful, and timely analysis.
 
-💼 While my primary focus is on **Android App Development**, I also develop **Web Applications**, build **APIs**, and create **Desktop Software Solutions**. I'm deeply involved in a wide variety of projects — from task automation to full-stack solutions — and I’m always exploring new technologies to broaden my skill set.
+💼 I specialize in data analysis, visualization, and reporting, with hands-on experience in tools like Python, SQL, Excel, and Power BI/Tableau. I enjoy exploring datasets, uncovering trends, and delivering solutions that drive smarter business decisions.
 
-📩 I’m actively looking for exciting **job opportunities** in App Development, Web Development, or API Engineering. If you have a **business idea**, need an **app built**, or want to discuss how **tech can help you** — let’s talk!
+🚀 I’m deeply interested in projects involving business analytics, predictive modeling, and automation of data processes, and I constantly seek to expand my knowledge in the latest data technologies and methodologies.
+
+📩 I’m actively looking for job opportunities as a Data Analyst or Business Intelligence professional. If you have data-driven challenges, need insights from your data, or want to leverage analytics for growth — let’s connect!
 
 ---
+
+### 👨‍💻 About Me
+
+- 🌍 Location: **Silvassa, D&NH**
+- 🕓 Timezone: **UTC +05:30 (IST)**
+- 📨 Email: [gopiyadav4949@gmail.com] (mailto:gopiyadav4949@gmail.com)
+- 🔗 LinkedIn: [Gopi Yadav] (https://www.linkedin.com/in/gopiyadav48/)
+- 🧑‍🧱 Pronouns: **He/Him**
+
+---
+
+🌱 Currently Learning & Exploring
+
+- 📊 Advanced Data Analysis using **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- 📈 Data Visualization & BI with **Power BI**, **Tableau**
+- 🗄️ Database Management & SQL for data extraction and manipulation
+- ☁️ Real-time & Cloud Integration with **Supabase**
+- 💡 Machine Learning & Predictive Analytics fundamentals using scikit-learn
