@@ -14,7 +14,7 @@
 
 - 🌍 Location: **Silvassa, D&NH**
 - 🕓 Timezone: **UTC +05:30 (IST)**
-- 📨 Email: [gopiyadav4949@gmail.com] (mailto:gopiyadav4949@gmail.com)
+- 📨 Email: [gopiyadav4949@gmail.com] 
 - 🔗 LinkedIn: [Gopi Yadav] (https://www.linkedin.com/in/gopiyadav48/)
 - 🧑‍🧱 Pronouns: **He/Him**
 
